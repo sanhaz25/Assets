@@ -1,3 +1,3 @@
 # Assets
 
-This is a reposirory where the assets that will be needed are stored and they are linked later to the relevent wiki pages/repositaries accordingly.
+This serves as a storage place for assets that will be required, and they are subsequently connected to the relevant wiki pages or repositories.
